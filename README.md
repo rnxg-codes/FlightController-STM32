@@ -1,4 +1,2 @@
 # FlightController-STM32
-Flight Controller Development on STM32
-# FlightController-STM32
-added 
+It consist of program files related to stm32 programming 
